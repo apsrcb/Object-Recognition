@@ -10,8 +10,7 @@ position. However for the computer to imitate and detect objects like a human ey
 
 
 
-
-![image](https://user-images.githubusercontent.com/94275810/228509997-d00c7ad3-467a-43ed-a02f-73f659cb56da.png)
+![image](https://user-images.githubusercontent.com/94275810/228515217-15dc5f1e-2351-4c17-b726-ec3401c9466a.png)
 
 ![image](https://user-images.githubusercontent.com/94275810/228510441-4e1ee334-637a-4d4a-bea5-6468e79c2bbd.png)
 
