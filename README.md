@@ -8,7 +8,7 @@ position. However for the computer to imitate and detect objects like a human ey
 
 *Illustrations with Results *
 
-<img src="https://user-images.githubusercontent.com/94275810/228509997-d00c7ad3-467a-43ed-a02f-73f659cb56da.png)" width="100" height="100">
+
 
 
 ![image](https://user-images.githubusercontent.com/94275810/228509997-d00c7ad3-467a-43ed-a02f-73f659cb56da.png)
