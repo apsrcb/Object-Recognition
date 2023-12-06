@@ -17,8 +17,4 @@ install.packages("image.darknet", repos = "https://bnosac.github.io/drat")
 library(image.darknet)
      
 
-## Authors
-
-- [@rithikabadam](https://github.com/rithikabadam)
-- [@sindhoori-kaza](https://github.com/sindhoori-kaza)
 
